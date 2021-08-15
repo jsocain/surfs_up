@@ -11,9 +11,11 @@ This analysis is to provide summary statistics about temperature trends for the 
 - The temperatures are colder in December and fluctuate more.
 
 - June Stats
+
 ![June Stats](/Resources/june_stats.png)
 
--December Stats
+- December Stats
+
 ![December Stats](/Resources/dec_stats.png)
 
 
